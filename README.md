@@ -25,7 +25,7 @@ Feel free to explore the code and customize it to your liking. Contributions and
 
 ---
 
-### Made by Prashid Dilshan
+### Made by Prashid Dilshan ❤️
 
 Crafted with passion and dedication, this project reflects my love for music and coding. 🎵💻
 
