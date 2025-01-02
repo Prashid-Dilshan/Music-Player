@@ -10,20 +10,20 @@
   margin: 0;
 }
 :root{
-  --pink: #ff74a4;
-  --violet: #9f6ea3;
-  --lightblack: #515C6F;
+  --pink: #ff0000;
+  --violet: #1774ff;
+  --lightblack: #0c0c0c;
   --white: #ffffff;
-  --darkwhite: #cecaca;
+  --darkwhite: #b59e9e;
   --pinkshadow: #ffcbdd;
-  --lightbshadow: rgba(0,0,0,0.15);
+  --lightbshadow: rgba(255, 0, 0, 0.15);
 }
 body{
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(var(--pink) 0%, var(--violet) 100%);
+  background: black;
 }
 .wrapper{
   width: 380px;
